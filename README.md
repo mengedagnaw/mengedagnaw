@@ -15,7 +15,6 @@
 
 ### 🤝 Connect with Me
 <p>
-  <a href="https://github.com/mengedagnaw"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=l3JMvNIAAAAJ&view_op=list_works&gmla=AH8HC4z3AUxEyFrfgMOaQNFRqaPoXcFhcUT-mWPt9F_I3q94H8aZ0sm__QhqTKer__5NYeUEgBGGZVViD00XSKh"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white"></a>
 </p>
