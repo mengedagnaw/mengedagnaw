@@ -40,7 +40,7 @@
 - **Ferroelectrics** · LGD models, P–E loops, domain evolution  
 
 ### 🌱 Currently
-- I’m learning and working on **DFT using [Quantum ESPRESSO](https://www.quantum-espresso.org/)** for **ferroelectric materials**.
+I am currently learning and working on Density Functional Theory (DFT) using [Quantum ESPRESSO](https://www.quantum-espresso.org/) to study ferroelectric materials.
 
 
 
