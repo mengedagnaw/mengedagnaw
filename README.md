@@ -22,10 +22,6 @@
 ### 🧰 Languages & Tools
 <p>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white"/>
   <a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted#module=14v1"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/></a>
   <a href="https://www.quantum-espresso.org/"><img alt="Quantum ESPRESSO" src="https://img.shields.io/badge/Quantum%20ESPRESSO-7B1FA2?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIvPg==&logoColor=white"/></a>
 </p>
