@@ -28,10 +28,6 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white"/>
   <a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted#module=14v1"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/></a>
   <a href="https://www.quantum-espresso.org/"><img alt="Quantum ESPRESSO" src="https://img.shields.io/badge/Quantum%20ESPRESSO-7B1FA2?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIvPg==&logoColor=white"/></a>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ### 📊 GitHub Stats
