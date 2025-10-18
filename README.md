@@ -39,7 +39,7 @@
 
 ### 🧪 Selected Projects
 - **LPBF SDSS 2507** · corrosion testing, EBSD/SEM pipelines, reproducible plots  
-- **Ferroelectrics & Phase-Field** · LGD models, P–E loops, domain evolution  
+- **Ferroelectrics** · LGD models, P–E loops, domain evolution  
 - **DFT Workflows** · Quantum ESPRESSO automation (SCF/relax/phonon), band/DOS
 
 
