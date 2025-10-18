@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Mengistu 👋</h1>
 <p align="center">
   <em>PhD Candidate in Materials Science and Engineering | Experimental and Computational Material Scientist</em><br/>
@@ -39,8 +38,9 @@
 ### 🧪 Selected Projects
 - **LPBF SDSS 2507** · corrosion testing, EBSD/SEM pipelines, reproducible plots  
 - **Ferroelectrics** · LGD models, P–E loops, domain evolution  
-- **DFT Workflows** · Quantum ESPRESSO automation (SCF/relax/phonon), band/DOS
 
+### 🌱 Currently
+- I’m learning and working on **DFT using [Quantum ESPRESSO](https://www.quantum-espresso.org/)** for **ferroelectric materials**.
 
 
 
