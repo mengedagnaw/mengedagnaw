@@ -45,14 +45,12 @@ I am currently learning and working on Density Functional Theory (DFT) using [Qu
 
 
 
+
+
 ### 📜 License
 - Code: [MIT](LICENSE)
 - Text & images: [CC BY 4.0](LICENSE-CC-BY)
 - Third-party trademarks/logos remain the property of their respective owners.
-
-
-
-
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
