@@ -34,18 +34,6 @@
 
 ---
 
-### 🧪 Selected Projects
-- **LPBF SDSS 2507** · corrosion testing, EBSD pipelines, reproducible plots   
-- **Ferroelectrics** · LGD models, P–E loops, domain evolution   
-
-### 🌱 Currently
-I am currently learning Density Functional Theory (DFT) using [Quantum ESPRESSO](https://www.quantum-espresso.org/) to study ferroelectric materials.
-
-
-
-
-
-
 ### 📜 License
 - Code: [MIT](LICENSE)
 - Text & images: [CC BY 4.0](LICENSE-CC-BY)
