@@ -18,20 +18,19 @@
 </p>
 
 ### 🧰 Languages & Tools
-<p>
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<p align="left">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="assets/tools/matlab.png" alt="MATLAB" height="42" style="margin-right:10px;"/>
   </a>
 
-  <a href="https://www.mathworks.com/products/matlab.html">
-    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-F57C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="assets/tools/python.png" alt="Python" height="42" style="margin-right:10px;"/>
   </a>
 
-  <a href="https://www.latex-project.org/">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-2E7D32?style=for-the-badge&logo=latex&logoColor=white"/>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="assets/tools/latex.png" alt="LaTeX" height="42"/>
   </a>
 </p>
-
 
 
 
