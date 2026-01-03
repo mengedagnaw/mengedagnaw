@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/">
-    <img src="assets/tools/python.png" alt="Python" height="42">
+    <img src="assets/tools/python.png" alt="Python" height="42"> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.latex-project.org/">
