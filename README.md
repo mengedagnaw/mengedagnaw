@@ -19,16 +19,22 @@
 
 ### 🧰 Languages & Tools
 <p>
+  <!-- Python (official logo) -->
   <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB"/>
   </a>
+
+  <!-- MATLAB / MathWorks (official company logo) -->
   <a href="https://www.mathworks.com/products/matlab.html">
-    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/>
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
   </a>
+
+  <!-- LaTeX (official logo) -->
   <a href="https://www.latex-project.org/">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-2E7D32?style=for-the-badge&logo=latex&logoColor=white"/>
   </a>
 </p>
+
 
 
 ### 📊 GitHub Stats
