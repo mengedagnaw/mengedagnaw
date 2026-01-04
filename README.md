@@ -21,8 +21,8 @@
 <p>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a>
   <a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted#module=14v1"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/></a>
-</p>  please update this by adding LaTeX
-
+  <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/></a>
+</p>
 
 
 
