@@ -19,20 +19,19 @@
 
 ### 🧰 Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="assets/tools/matlab.png" alt="MATLAB" height="42">
+    <img src="assets/tools/matlab.png" alt="MATLAB" height="48">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/">
-    <img src="assets/tools/python.png" alt="Python" height="42"> 
+    <img src="assets/tools/python.png" alt="Python" height="48">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.latex-project.org/">
-    <img src="assets/tools/latex.png" alt="LaTeX" height="42">
+    <img src="assets/tools/latex.png" alt="LaTeX" height="48">
   </a>
 </p>
-
 
 
 
