@@ -18,18 +18,10 @@
 </p>
 
 ### 🧰 Languages & Tools
-
-<a href="https://www.mathworks.com/products/matlab.html">
-  <img src="assets/tools/matlab.png" alt="MATLAB" height="28">
-</a>
-&nbsp;
-<a href="https://www.python.org/">
-  <img src="assets/tools/python.png" alt="Python" height="28">
-</a>
-&nbsp;
-<a href="https://www.latex-project.org/">
-  <img src="assets/tools/latex.png" alt="LaTeX" height="28">
-</a>
+<p>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a>
+  <a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted#module=14v1"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"/></a>
+</p>  please update this by adding LaTeX
 
 
 
