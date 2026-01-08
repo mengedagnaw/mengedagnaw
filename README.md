@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mengistu 👋</h1> 
 <p align="center">
-  <em> Materials Science researcher </em><br/>
+  <em> Materials science researcher </em><br/>
   <img src="https://komarev.com/ghpvc/?username=mengedagnaw&style=flat&label=Profile+views" alt="views"/>
 </p>
 
