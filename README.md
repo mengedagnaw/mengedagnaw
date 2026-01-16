@@ -8,8 +8,8 @@
 
 ### 🛠 Research Interests
 - Metal additive manufacturing  
-- Corrosion 
-- Multicomponent alloys  
+- Corrosion and Electrochemistry 
+- Materials Informatics 
 
 ### 🤝 Connect with Me
 <p>
