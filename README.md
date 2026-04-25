@@ -9,7 +9,7 @@
 ### 🛠 Research Interests
 - Metal additive manufacturing  
 - Corrosion and electrochemistry 
-- Alloy Systems
+- Alloy systems
 
 ### 🤝 Connect with Me
 <p>
