@@ -9,7 +9,7 @@
 
 ### 🛠 Research Interests
 - Structural materials and engineering alloys  
-- Metal additive manufacturing of stainless steels  
+- Metal additive manufacturing of Super-duplex steels  
 - Microstructure–property–corrosion relationships  
 - Electrochemical corrosion  
 - Scientific computing and data analysis using Python and MATLAB  
