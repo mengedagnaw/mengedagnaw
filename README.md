@@ -4,17 +4,6 @@
   Researcher in Materials Science and Engineering | Metal Additive Manufacturing | Corrosion and Electrochemistry
 </h3>
 
-<p align="center">
-  <em>
-    Investigating LPBF-fabricated super duplex stainless steels, microstructure–property–corrosion relationships, 
-    phase balance, residual stress, texture, and post-processing effects.
-  </em>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mengedagnaw&label=Profile%20views&color=blueviolet&style=plastic" alt="mengedagnaw profile views" /> 
-</p>
-
 ---
 
 ### 🛠 Research Interests:
