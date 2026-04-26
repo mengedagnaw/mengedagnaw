@@ -34,16 +34,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OriginPro-1F4E79?style=for-the-badge" alt="OriginPro"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SEM%20%7C%20EDS-455A64?style=for-the-badge" alt="SEM and EDS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/EBSD-00695C?style=for-the-badge" alt="EBSD"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/XRD-3949AB?style=for-the-badge" alt="XRD"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Electrochemistry-795548?style=for-the-badge" alt="Electrochemistry"/>
 </p>
 
 ---
