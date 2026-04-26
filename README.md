@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mengistu 👋</h1>
 
 <h3 align="center">
-  PhD Researcher in Materials Science and Engineering | Metal Additive Manufacturing | Corrosion and Electrochemistry
+  Researcher in Materials Science and Engineering | Metal Additive Manufacturing | Corrosion and Electrochemistry
 </h3>
 
 <p align="center">
