@@ -2,17 +2,17 @@
 
 <h3 align="center">
   Researcher in Materials Science and Engineering<br/>
-  Metal Additive Manufacturing · Stainless Steels · Corrosion and Electrochemistry
+  Structural Materials · Metal Additive Manufacturing · Stainless Steels · Corrosion and Electrochemistry
 </h3>
 
 ---
 
 ### 🛠 Research Interests
-- Laser powder bed fusion of stainless steels and engineering alloys  
+- Structural materials and engineering alloys  
+- Metal additive manufacturing of stainless steels  
 - Super duplex stainless steels, including UNS S32750 / SDSS 2507  
 - Microstructure–property–corrosion relationships  
-- Electrochemical corrosion: OCP, polarization, and EIS  
-- Phase balance, texture, residual stress, and post-processing effects  
+- Electrochemical corrosion  
 - Scientific computing and data analysis using Python and MATLAB  
 
 ---
