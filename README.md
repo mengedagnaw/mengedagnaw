@@ -2,17 +2,17 @@
 
 <h3 align="center">
   Researcher in Materials Science and Engineering<br/>
-  Structural Materials · Metal Additive Manufacturing · Stainless Steels · Corrosion and Electrochemistry
+  Structural Materials · Metal Additive Manufacturing · Corrosion Performance
 </h3>
 
 ---
 
 ### 🛠 Research Interests
-- Structural materials and engineering alloys  
-- Metal additive manufacturing of Super-duplex steels  
-- Microstructure–property–corrosion relationships  
-- Electrochemical corrosion  
-- Scientific computing and data analysis using Python and MATLAB  
+- 🧪 Laser powder bed fusion of super duplex stainless steels  
+- 🔬 Microstructure–property–corrosion relationships  
+- ⚙️ Phase balance, texture, residual stress, and post-processing  
+- ⚡ Corrosion and electrochemical characterization  
+- 📊 Scientific computing and data analysis using Python and MATLAB  
 
 ---
 
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mengedagnaw&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=mengedagnaw&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
