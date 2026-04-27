@@ -8,11 +8,11 @@
 ---
 
 ### 🛠 Research Interests
- 🧪 Laser powder bed fusion of super duplex stainless steels  
-🔬 Microstructure–property–corrosion relationships  
- ⚙️ Phase balance, texture, residual stress, and post-processing  
- ⚡ Corrosion and electrochemical characterization  
- 📊 Scientific computing and data analysis using Python and MATLAB  
+- 🧪 Laser powder bed fusion of super duplex stainless steels  
+- 🔬 Microstructure–property–corrosion relationships  
+- ⚙️ Phase balance, texture, residual stress, and post-processing  
+- ⚡ Corrosion and electrochemical characterization  
+- 📊 Scientific computing and data analysis using Python and MATLAB  
 
 ---
 
@@ -30,9 +30,13 @@
 
 ### 🧰 Languages and Tools
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  </a>
 </p>
 
 ---
