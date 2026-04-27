@@ -8,11 +8,11 @@
 ---
 
 ### 🛠 Research Interests
-- 🧪 Laser powder bed fusion of super duplex stainless steels  
-- 🔬 Microstructure–property–corrosion relationships  
-- ⚙️ Phase balance, texture, residual stress, and post-processing  
-- ⚡ Corrosion and electrochemical characterization  
-- 📊 Scientific computing and data analysis using Python and MATLAB  
+ 🧪 Laser powder bed fusion of super duplex stainless steels  
+ 🔬 Microstructure–property–corrosion relationships  
+ ⚙️ Phase balance, texture, residual stress, and post-processing  
+ ⚡ Corrosion and electrochemical characterization  
+ 📊 Scientific computing and data analysis using Python and MATLAB  
 
 ---
 
