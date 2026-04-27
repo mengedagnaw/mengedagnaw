@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Research Interests
+### 🛠 Research Interests:
  - Laser powder bed fusion of super duplex stainless steels  
 - Microstructure–property–corrosion relationships  
  - Phase balance, texture, residual stress, and post-processing  
