@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
+  &nbsp;
   <a href="https://orcid.org/0000-0003-0872-1710" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="35" width="35"/>
   </a>
