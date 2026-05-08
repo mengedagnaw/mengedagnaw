@@ -9,7 +9,7 @@
 
 ### 🔬 Research Focus
 
-I study how laser powder bed fusion, rapid solidification, thermal cycling, and post-processing affect microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in corrosion-resistant alloy systems, with emphasis on duplex and super duplex stainless steels.
+I research how laser powder bed fusion, rapid solidification, thermal cycling, and post-processing affect microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in corrosion-resistant alloy systems, with emphasis on duplex and super duplex stainless steels.
 
 - LPBF processing of stainless steels and corrosion-resistant metallic alloys
 - Non-equilibrium phase evolution during rapid solidification and reheating
