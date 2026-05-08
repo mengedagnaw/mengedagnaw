@@ -53,15 +53,18 @@ Mechanical Response · Corrosion Performance
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Python · MATLAB · Reproducible Analysis · Publication-Quality Visualization</b>
+  <b>Reproducible Analysis · Automation · Publication-Quality Visualization</b>
 </p>
-
 ---
 
 ## 📊 GitHub Activity
