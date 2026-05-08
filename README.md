@@ -23,7 +23,7 @@
 
 ## 🔬 Research Focus
 
-I study how **laser powder bed fusion** and post-processing influence microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in **duplex and super duplex stainless steels**.
+I research how **laser powder bed fusion** and post-processing influence microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in **duplex and super duplex stainless steels**.
 
 ```text
 LPBF Processing
