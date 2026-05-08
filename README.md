@@ -13,7 +13,7 @@
   <img 
     src="assets/processing-structure-property-performance.png" 
     alt="Processing–Microstructure–Properties–Corrosion Performance framework" 
-    width="650"
+    width="600"
   />
 </p>
 
