@@ -10,6 +10,14 @@
 </p>
 
 <p align="center">
+  <img 
+    src="assets/processing-structure-property-performance.png" 
+    alt="Processing–Microstructure–Properties–Corrosion Performance framework" 
+    width="650"
+  />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
