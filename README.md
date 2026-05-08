@@ -21,11 +21,9 @@
 
 ---
 
-## 🔬 Research Profile
+## 🔬 Research Focus
 
-I investigate how **metal additive manufacturing**, particularly **laser powder bed fusion**, modifies microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in corrosion-resistant alloy systems.
-
-My research focuses on **duplex and super duplex stainless steels**, with emphasis on the relationship between non-equilibrium processing conditions, post-processing, and electrochemical performance.
+I study how **laser powder bed fusion** and post-processing influence microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in **duplex and super duplex stainless steels**.
 
 ```text
 LPBF Processing
@@ -34,36 +32,25 @@ Rapid Solidification + Thermal Cycling
       ↓
 Phase Balance · Texture · Residual Stress · Defects
       ↓
-Mechanical Response + Corrosion Performance
+Mechanical Response · Corrosion Performance
 ```
 
 ---
 
-## 🧭 Research Focus
+## 🧪 Technical Scope
 
-- Metal additive manufacturing of stainless steels and corrosion-resistant alloy systems
-- Laser powder bed fusion under rapid solidification and repeated thermal cycling
-- Non-equilibrium microstructure evolution in duplex and super duplex stainless steels
-- Phase balance, crystallographic texture, residual stress, and post-processing effects
-- Microstructure–property–corrosion relationships
-- Electrochemical characterization using OCP, potentiodynamic polarization, and EIS
-- Scientific computing, reproducible data analysis, and publication-quality visualization
-
----
-
-## 🧪 Methods and Characterization
-
-| Area | Methods |
+| Area | Methods and Topics |
 |---|---|
+| **Additive manufacturing** | LPBF, rapid solidification, thermal cycling, post-processing |
 | **Microstructure** | Optical microscopy, SEM/EDS, EBSD, TEM |
-| **Phase and stress analysis** | XRD, phase-fraction analysis, residual-stress evaluation |
+| **Phase and stress analysis** | XRD, phase balance, texture, residual-stress evaluation |
 | **Electrochemistry** | OCP, potentiodynamic polarization, EIS |
 | **Mechanical evaluation** | Hardness, tensile testing, impact toughness |
-| **Computation** | Python, MATLAB, data processing, automation, visualization |
+| **Scientific computing** | Python, MATLAB, data analysis, automation, visualization |
 
 ---
 
-## 🧰 Scientific Computing
+## 🧰 Languages and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
@@ -72,20 +59,8 @@ Mechanical Response + Corrosion Performance
 </p>
 
 <p align="center">
-  <b>Python · MATLAB · Data Analysis · Automation · Publication-Ready Visualization</b>
+  <b>Python · MATLAB · Reproducible Analysis · Publication-Quality Visualization</b>
 </p>
-
----
-
-## 📂 Repository Themes
-
-My repositories focus on tools and workflows for:
-
-- Materials data analysis and visualization
-- Electrochemical data processing
-- Microstructure–property–corrosion interpretation
-- Reproducible plotting and scientific figure preparation
-- Python and MATLAB workflows for research automation
 
 ---
 
