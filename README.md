@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mengistu 👋</h1>
 
 <p align="center">
-  <b> Researcher in Materials Science and Engineering</b><br/>
+  <b>Researcher in Materials Science and Engineering</b><br/>
   Metal Additive Manufacturing · Laser Powder Bed Fusion · Super Duplex Stainless Steels
 </p>
 
@@ -56,7 +56,7 @@ Mechanical Response + Corrosion Performance
 | Area | Methods |
 |---|---|
 | **Microstructure** | Optical microscopy, SEM/EDS, EBSD, TEM |
-| **Phase and stress analysis** | XRD, phase-fraction analysis, residual-stress assessment |
+| **Phase and stress analysis** | XRD, phase-fraction analysis, residual-stress evaluation |
 | **Electrochemistry** | OCP, potentiodynamic polarization, EIS |
 | **Mechanical evaluation** | Hardness, tensile testing, impact toughness |
 | **Computation** | Python, MATLAB, data processing, automation, visualization |
