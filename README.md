@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mengistu 👋</h1>
 
 <h3 align="center">
-  PhD Researcher in Materials Science and Engineering<br/>
+  Researcher in Materials Science and Engineering<br/>
   Laser Powder Bed Fusion · Super Duplex Stainless Steels · Microstructure–Corrosion Coupling
 </h3>
 
