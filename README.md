@@ -11,14 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Mengistu%20Dagnaw-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://orcid.org/0000-0003-0872-1710" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ORCID-0000--0003--0872--1710-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35"/>
   </a>
 </p>
-
 ---
 
 ## 🔬 Research Focus
