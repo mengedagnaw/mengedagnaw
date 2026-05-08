@@ -2,31 +2,32 @@
 
 <h3 align="center">
   Researcher in Materials Science and Engineering<br/>
-  Laser Powder Bed Fusion · Super Duplex Stainless Steels · Microstructure–Corrosion Coupling
+  Metal Additive Manufacturing · Laser Powder Bed Fusion · Super Duplex Stainless Steels · Corrosion Performance
 </h3>
 
 ---
 
 ### 🔬 Research Focus
 
-I research how laser powder bed fusion, rapid solidification, thermal cycling, and post-processing affect microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in corrosion-resistant alloy systems, with emphasis on duplex and super duplex stainless steels.
+I research how metal additive manufacturing, particularly laser powder bed fusion, affects microstructure, phase balance, residual stress, mechanical behavior, and corrosion performance in corrosion-resistant alloy systems. My work focuses on linking processing history, non-equilibrium metallurgy, post-processing, and electrochemical response, with emphasis on duplex and super duplex stainless steels.
 
-- LPBF processing of stainless steels and corrosion-resistant metallic alloys
-- Non-equilibrium phase evolution during rapid solidification and reheating
-- Phase balance, crystallographic texture, residual stress, and post-processing effects
-- Structure–property–corrosion relationships in duplex stainless steels
-- Electrochemical characterization: OCP, potentiodynamic polarization, and EIS
+- Metal additive manufacturing of stainless steels and corrosion-resistant alloy systems
+- Laser powder bed fusion under rapid solidification and repeated thermal cycling
+- Non-equilibrium microstructure evolution, phase balance, texture, and residual stress
+- Post-processing effects on structure, mechanical behavior, and corrosion resistance
+- Structure–property–corrosion relationships in duplex and super duplex stainless steels
+- Electrochemical characterization using OCP, potentiodynamic polarization, and EIS
 - Scientific computing, data analysis, and reproducible visualization using Python and MATLAB
 
 ---
 
 ### 🧪 Methods and Tools
 
-- **Characterization:** EBSD, XRD, SEM/EDS, optical microscopy, TEM
+- **Materials characterization:** EBSD, XRD, SEM/EDS, optical microscopy, TEM
 - **Electrochemistry:** OCP, potentiodynamic polarization, EIS
-- **Mechanical testing:** hardness, tensile testing, impact toughness
+- **Mechanical evaluation:** hardness, tensile testing, impact toughness
 - **Programming:** Python, MATLAB
-- **Data workflows:** numerical analysis, visualization, automation, and publication-ready plotting
+- **Data workflows:** numerical analysis, automation, visualization, and publication-ready plotting
 
 ---
 
