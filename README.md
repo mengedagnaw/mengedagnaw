@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>Processing → Microstructure → Properties → Corrosion Performance</i>
+  <i>Processing → Microstructure → Properties → Corrosion Performance</i> 
 </p>
 
 <p align="center">
