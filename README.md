@@ -62,6 +62,11 @@ Mechanical Response · Corrosion Performance
   </a>
 </p>
 
+<p align="center">
+  <b>Reproducible Analysis · Automation · Publication-Quality Visualization</b>
+</p>
+
+
 ## 📊 GitHub Activity
 
 <p align="center">
