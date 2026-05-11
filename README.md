@@ -13,12 +13,10 @@
     <a href="https://orcid.org/0000-0003-0872-1710" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35"/>
   </a>
-  
+    &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
-  &nbsp;&nbsp;
-
 </p>
 
 
