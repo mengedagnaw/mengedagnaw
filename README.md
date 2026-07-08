@@ -62,7 +62,7 @@ Mechanical Response · Corrosion Performance
 </p>
 
 <p align="center">
-  <b>Python · MATLAB · Reproducible Analysis · Publication-Quality Visualization</b>
+  <b>Python · MATLAB
 </p>
 
 ## 📊 GitHub Activity
