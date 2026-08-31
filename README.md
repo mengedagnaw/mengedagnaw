@@ -59,10 +59,14 @@ Mechanical Response · Corrosion Performance
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
   </a>
+  &nbsp;
+  <a href="https://mooseframework.inl.gov/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MOOSE-FEM-blue?style=for-the-badge" alt="MOOSE" height="45"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Python · MATLAB
+  <b>Python · MATLAB · MOOSE</b>
 </p>
 
 ## 📊 GitHub Activity
