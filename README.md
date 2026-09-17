@@ -49,7 +49,7 @@ Mechanical Response · Electrochemical Response
 Material Performance
 ```
 
-My broader objective is to establish physically defensible links between **non-equilibrium LPBF metallurgy**, subsequent microstructural evolution, and the resulting engineering performance.
+My broader objective is to establish **scientifically rigorous links** between non-equilibrium LPBF metallurgy, subsequent microstructural evolution, and the resulting engineering performance.
 
 ---
 
