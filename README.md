@@ -1,140 +1,130 @@
-<h1 align="center">Hi, I'm Mengistu 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Materials Science and Engineering Researcher</b><br/>
-  Metal Additive Manufacturing · LPBF · Duplex Stainless Steels · Mechanical Behaviour · Corrosion
-</p>
+# Hi, I'm Mengistu 👋
 
-<p align="center">
-  <i>Processing → Structure → Properties → Performance</i>
-</p>
+### Materials Science and Engineering Researcher
 
-<p align="center">
-  <a href="https://orcid.org/0000-0003-0872-1710">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"
-         alt="ORCID" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="35" height="35"/>
-  </a>
-</p>
+**Metal Additive Manufacturing · Physical Metallurgy · Mechanical Behaviour · Corrosion**
 
----
+*Processing → Structure → Properties → Performance*
 
-## 🔬 Research Focus
+<br>
 
-My research investigates **processing–structure–property–performance relationships** in metallic materials produced by **laser powder bed fusion (LPBF)**, with particular emphasis on **duplex and super duplex stainless steels**.
+<a href="https://orcid.org/0000-0003-0872-1710">
+  <img src="https://img.shields.io/badge/ORCID-0000--0003--0872--1710-A6CE39?style=flat-square&logo=orcid&logoColor=white"
+       alt="ORCID"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+       alt="LinkedIn"/>
+</a>
 
-I examine how rapid solidification, thermal cycling, alloy chemistry, and post-processing influence:
-
-- **Microstructure:** Phase balance, grain structure, texture, and phase stability.
-- **Material integrity:** Residual stress, lattice distortion, and defects.
-- **Mechanical behaviour:** Strength, ductility, hardness, and toughness.
-- **Corrosion performance:** Electrochemical response, passivity, and localized corrosion.
-
-My objective is to establish quantitative relationships between **non-equilibrium metallurgy, microstructural evolution, and engineering performance**.
-
-```text
-LPBF Processing + Alloy Chemistry
-               ↓
-Solidification + Thermal History
-               ↓
-Microstructure + Phase Constitution
-               ↓
-Mechanical + Electrochemical Response
-               ↓
-        Material Performance
-```
+</div>
 
 ---
 
-## 🧪 Experimental and Computational Expertise
+## 🔬 Research
 
-| Area | Methods and Expertise |
-|---|---|
-| **Additive Manufacturing** | LPBF, rapid solidification, thermal cycling, heat treatment |
-| **Microstructural Characterization** | Optical microscopy, SEM/EDS, EBSD, TEM/STEM |
-| **Crystallography** | XRD, phase analysis, texture, residual-stress analysis |
-| **Mechanical Testing** | Hardness, tensile testing, impact toughness, deformation analysis |
-| **Electrochemistry** | OCP, potentiodynamic polarization, cyclic polarization, EIS |
-| **Computational Modelling** | FEM, MOOSE, J2 elastoplasticity, phase-field modelling |
-| **Scientific Computing** | Python, MATLAB, numerical analysis, visualization, automation |
+My research focuses on **processing–structure–property–performance relationships** in additively manufactured metals, particularly **laser powder bed fusion (LPBF) of duplex and super duplex stainless steels**.
+
+I investigate how **solidification conditions, thermal history, alloy chemistry, and post-processing** influence microstructural evolution and material response.
+
+My principal research interests include:
+
+- **Physical metallurgy:** Phase transformations, ferrite–austenite balance, and microstructural stability.
+- **Microstructure and crystallography:** Grain structure, texture, residual stress, and defects.
+- **Mechanical behaviour:** Strength, ductility, hardness, toughness, and deformation.
+- **Corrosion science:** Passivity, electrochemical behaviour, and localized corrosion.
+
+<div align="center">
+
+**Processing & Alloy Chemistry**
+<br>↓<br>
+**Solidification & Thermal History**
+<br>↓<br>
+**Microstructure & Phase Constitution**
+<br>↓<br>
+**Mechanical & Electrochemical Response**
+<br>↓<br>
+**Material Performance**
+
+</div>
 
 ---
 
-## ⚙️ Computational Modelling
+## 🧪 Experimental Expertise
 
-I integrate experimental characterization with computational approaches to investigate material deformation and microstructural evolution.
+| Research Area | Methods and Techniques |
+|:---|:---|
+| **Additive Manufacturing** | LPBF · Heat Treatment · Microstructural Evolution |
+| **Microstructural Characterization** | Optical Microscopy · SEM/EDS · EBSD · TEM/STEM |
+| **Crystallography and Phase Analysis** | XRD · Texture · Phase Balance · Residual Stress |
+| **Mechanical Characterization** | Hardness · Tensile Testing · Impact Testing |
+| **Electrochemical Characterization** | OCP · Potentiodynamic Polarization · Cyclic Polarization · EIS |
 
-**Current interests:**
-- Finite-element modelling and J2 elastoplastic constitutive behaviour.
-- Stress, strain, and plastic-strain field analysis.
-- Phase-field and microstructure-evolution modelling.
+---
+
+## ⚙️ Scientific Computing and Modelling
+
+I complement experimental investigations with **numerical modelling, scientific programming, and quantitative data analysis**.
+
+<div align="center">
+
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python" width="48" height="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
+       alt="MATLAB" width="48" height="48"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mooseframework.inl.gov/">
+  <img src="https://mooseframework.inl.gov/media/moose_logo.png"
+       alt="MOOSE Framework" height="48"/>
+</a>
+
+<br>
+
+**Python · MATLAB · MOOSE Framework**
+
+</div>
+
+<br>
+
+**Computational interests**
+
+- Finite-element analysis and J2 elastoplasticity.
+- Constitutive modelling and stress–strain field analysis.
+- Phase-field modelling and microstructure evolution.
 - Experimental–numerical comparison and parameter sensitivity.
-- Numerical verification, model validation, and reproducible workflows.
-
-I distinguish between **numerically verified models, experimentally calibrated descriptions, and validated predictive capabilities**.
+- Numerical verification, validation, and reproducible workflows.
 
 ---
 
-## 🧰 Languages and Tools
+## 🧭 Research Philosophy
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
-         alt="MATLAB" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mooseframework.inl.gov/">
-    <img src="https://mooseframework.inl.gov/media/moose_logo.png"
-         alt="MOOSE Framework" height="45"/>
-  </a>
-</p>
+> **Quantitative evidence. Mechanistic understanding. Reproducible research.**
 
-<p align="center">
-  <b>Python · MATLAB · MOOSE</b><br/>
-  Scientific Computing · Data Analysis · FEM · Constitutive Modelling · Reproducible Research
-</p>
-
----
-
-## 🧭 Research Approach
-
-My work emphasizes **quantitative characterization, mechanistic interpretation, and reproducible computational analysis**.
-
-```text
-Experimental Evidence
-         ↓
-Quantitative Analysis
-         ↓
-Mechanistic Interpretation
-         ↕
-Computational Modelling
-         ↓
-Verification + Validation
-```
-
-Particular attention is given to **measurement uncertainty, competing explanations, model limitations, and data provenance**.
+My approach integrates **experimental characterization, computational analysis, and physically grounded interpretation**, with particular attention to measurement uncertainty, competing explanations, model limitations, and data provenance.
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=mengedagnaw&show_icons=true&hide=issues&theme=tokyonight"
-       alt="GitHub statistics"/>
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mengedagnaw&layout=compact&theme=tokyonight"
-       alt="Most used languages"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mengedagnaw&show_icons=true&hide=issues&theme=tokyonight&hide_border=true"
+     alt="GitHub Statistics"
+     height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengedagnaw&layout=compact&theme=tokyonight&hide_border=true"
+     alt="Repository Languages"
+     height="165"/>
+
+</div>
 
 ---
 
@@ -145,9 +135,10 @@ Unless otherwise specified:
 - **Source code:** [MIT License](LICENSE)
 - **Original text and figures:** [CC BY 4.0](LICENSE-CC-BY)
 
-<p align="center">
-  <a href="https://creativecommons.org/licenses/by/4.0/">
-    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"
-         alt="CC BY 4.0 License"/>
-  </a>
-</p>
+---
+
+<div align="center">
+
+*Materials Science · Experimental Characterization · Computational Modelling*
+
+</div>
