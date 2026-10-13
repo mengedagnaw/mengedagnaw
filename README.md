@@ -11,43 +11,33 @@
 <br>
 
 <a href="https://orcid.org/0000-0003-0872-1710">
-  <img src="https://img.shields.io/badge/ORCID-0000--0003--0872--1710-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mengistu-dagnaw-21a472145/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-## 🔬 Research
+### 🔬 Research
 
 I investigate **processing–structure–property–performance relationships** in metallic materials, focusing on **laser powder bed fusion (LPBF) of duplex and super duplex stainless steels**.
 
-My research examines the effects of **alloy chemistry, rapid solidification, thermal cycling, and post-processing** on:
+My research integrates **microstructural characterization, mechanical testing, and electrochemistry** to understand how alloy chemistry, processing, and thermal history influence material performance.
 
-- **Physical metallurgy:** Phase balance, transformations, and microstructural stability.
-- **Microstructure:** Grain structure, texture, residual stress, and defects.
-- **Mechanical behaviour:** Strength, ductility, hardness, and toughness.
-- **Corrosion science:** Passivity, electrochemical response, and localized corrosion.
+### 🧪 Experimental Expertise
 
----
-
-## 🧪 Experimental Expertise
-
-| Area | Methods |
+| Domain | Methods |
 |:---|:---|
 | **Additive Manufacturing** | LPBF · Heat Treatment |
-| **Microstructural Characterization** | OM · SEM/EDS · EBSD · TEM/STEM |
-| **Crystallography** | XRD · Texture · Phase Analysis |
-| **Mechanical Characterization** | Hardness · Tensile · Impact Testing |
+| **Materials Characterization** | SEM/EDS · EBSD · TEM/STEM · XRD |
+| **Mechanical Testing** | Hardness · Tensile · Impact |
 | **Electrochemistry** | OCP · Polarization · EIS |
 
----
-
-## ⚙️ Scientific Computing and Modelling
+### ⚙️ Scientific Computing and Modelling
 
 <div align="center">
 
@@ -60,7 +50,7 @@ My research examines the effects of **alloy chemistry, rapid solidification, the
 </a>
 &nbsp;&nbsp;
 <a href="https://mooseframework.inl.gov/">
-  <img src="https://mooseframework.inl.gov/media/moose_logo.png" alt="MOOSE" height="45"/>
+  <img src="https://mooseframework.inl.gov/media/moose_logo.png" alt="MOOSE Framework" height="45"/>
 </a>
 
 <br>
@@ -71,42 +61,22 @@ My research examines the effects of **alloy chemistry, rapid solidification, the
 
 <br>
 
-My computational work encompasses **scientific data analysis, finite-element modelling, J2 elastoplasticity, and experimental–numerical comparison**, with ongoing interests in **phase-field modelling and microstructural evolution**.
+**Computational interests:** Scientific data analysis · Finite-element modelling · J2 elastoplasticity · Phase-field modelling · Numerical verification and validation
 
-I emphasize **numerical verification, experimental validation, uncertainty assessment, and reproducibility**.
+### 🧭 Research Philosophy
 
----
+> **Experimental evidence · Mechanistic understanding · Reproducible research**
 
-## 📊 GitHub Activity
+I prioritize **quantitative analysis, physically grounded interpretation, and transparent computational workflows**, with particular attention to uncertainty, competing explanations, and model limitations.
+
+### 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mengedagnaw&show_icons=true&hide=issues&theme=tokyonight&hide_border=true"
-     alt="GitHub Statistics" height="165"/>
+     alt="GitHub Statistics" height="155"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengedagnaw&layout=compact&theme=tokyonight&hide_border=true"
-     alt="Repository Languages" height="165"/>
-
-</div>
-
----
-
-<details>
-<summary><b>📜 Licensing</b></summary>
-
-<br>
-
-Unless otherwise specified:
-
-- **Source code:** [MIT License](LICENSE)
-- **Original text and figures:** [CC BY 4.0](LICENSE-CC-BY)
-
-</details>
-
-<br>
-
-<div align="center">
-
-*Experimental Evidence · Computational Analysis · Reproducible Research*
+     alt="Repository Languages" height="155"/>
 
 </div>
