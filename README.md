@@ -2,7 +2,7 @@
 
 # Hi, I'm Mengistu 👋
 
-### Materials Scientist and Engineer
+### Experimental Materials Scientist | Computational Materials Modelling
 
 **Additive Manufacturing · Physical Metallurgy · Mechanical Behaviour · Corrosion Science**
 
@@ -25,10 +25,6 @@
 ---
 
 ### 🔬 Research Interests
-
-My research explores **processing–structure–property–performance relationships** in metallic materials, with particular emphasis on **laser powder bed fusion (LPBF) of duplex and super duplex stainless steels**.
-
-My principal interests include:
 
 - **Metal Additive Manufacturing:** LPBF, rapid solidification, thermal cycling, and post-processing.
 - **Physical Metallurgy:** Phase transformations, microstructural evolution, crystallographic texture, and phase stability.
