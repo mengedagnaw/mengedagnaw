@@ -2,7 +2,7 @@
 
 # Hi, I'm Mengistu 👋
 
-### Experimental Materials Scientist | Computational Materials Modelling
+###  Materials Scientist
 
 **Additive Manufacturing · Physical Metallurgy · Mechanical Behaviour · Corrosion Science**
 
